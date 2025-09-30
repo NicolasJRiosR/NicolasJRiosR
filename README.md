@@ -48,5 +48,6 @@ Javascript, HTML, CSS, JAVA, SQL....
 - 🎮 Me gustan los videojuegos  
 - ☕ Fan del café 
 - 🎧 Me gusta escuchas musica
-- 🍳 Me gusta cocinar 
-Gracias por visitar mi perfil ^^. 
+- 🍳 Me gusta cocinar
+
+## Gracias por visitar mi perfil ^^. 
