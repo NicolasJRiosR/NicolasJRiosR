@@ -34,10 +34,10 @@ Javascript, HTML, CSS, JAVA, SQL....
 
 
 
-## 📊 Estadísticas de GitHub
+## 📊 Proyectos destacados
 
-![Nicolás GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasJRiosR&show_icons=true&theme=tokyonight)  
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasJRiosR&layout=compact&theme=tokyonight)  
+-Rick and Morty (web-rickand-morty.vercel.app)  
+-CRM (https://github.com/NicolasJRiosR/CRM.git) 
 
 ## Mas sobre mi 
 
