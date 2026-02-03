@@ -1,9 +1,5 @@
 
 
-![App Screenshot](https://64.media.tumblr.com/3cd08a0e5162d6a37f4e55fec9ccf709/520c6180bedd20dc-96/s640x960/7b586f233524ce7f96af3e1fece3f9ffdb3bcf0a.mp4
-)
-
-
 # Nicolas J Rios R
 
 Mi repositorio personal donde subo trabajos y proyectos
